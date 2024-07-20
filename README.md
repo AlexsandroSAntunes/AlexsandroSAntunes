@@ -18,4 +18,4 @@
 </a>
 
 
-![Alexsandro da Silva Antunes](https://github-readme-activity-graph.vercel.app/graph?username=AlexsandroSAntunes&custom_title=Alexsandro%20SAntunes's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Alexsandro da Silva Antunes](https://github-readme-activity-graph.vercel.app/graph?username=AlexsandroSAntunes&custom_title=Alexsandro%20SAntunes%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
